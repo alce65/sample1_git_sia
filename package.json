@@ -1,0 +1,13 @@
+{
+  "name": "sample1",
+  "version": "1.0.0",
+  "description": "Curso de Git del 7-10/10/2024",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
